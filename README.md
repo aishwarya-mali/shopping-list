@@ -1,5 +1,5 @@
 
-# Shopping List
+# 🛍️ Shopping List
 
 A simple React app to create shopping list for your next store visit.
 
